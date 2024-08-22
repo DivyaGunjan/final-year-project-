@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/akronim</item>
+        <item>@font/amarante</item>
+        <item>@font/amatic_sc_bold</item>
+        <item>@font/caveat_brush</item>
+        <item>@font/ceviche_one</item>
+        <item>@font/croissant_one</item>
+        <item>@font/homemade_apple</item>
+        <item>@font/major_mono_display</item>
+    </array>
+</resources>
